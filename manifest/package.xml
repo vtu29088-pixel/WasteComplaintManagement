@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Waste_Complaint__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>WasteComplaintReports</members>
+        <members>WasteComplaintReports/Waste_Complaints_by_Status_KDF</members>
+        <name>Report</name>
+    </types>
+    <types>
+        <members>WasteComplaintDashboards</members>
+        <members>WasteComplaintDashboards/XXYTHpidOmSSXMgEMCQFSgKmhGEsMK</members>
+        <name>Dashboard</name>
+    </types>
+    <version>62.0</version>
+</Package>
