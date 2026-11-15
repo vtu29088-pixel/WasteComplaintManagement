@@ -12,7 +12,7 @@ A Salesforce application that manages waste complaints from registration to reso
 
 ## Screenshots
 ![Dashboard](screenshots/dashboard.png)
-![Complaint record](screenshots/record.png)
+![Complaint record](screenshots/report.png)
 
 ## Deploy to another org
 sf project deploy start --manifest manifest/package.xml --target-org <alias>
